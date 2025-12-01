@@ -4,7 +4,7 @@ We present NEM.fr, the Named-Entities Multigenre French Corpus, an extended, enr
 
 The corpus gathers 51,480 tokens distributed across 12 genres (from poetry to legal decisions, biomedical texts, spoken and more). This diversity makes the corpus suitable not only for evaluating the performance of Named Entity Recognition (NER) tools in heterogeneous contexts, but also for exploring textual variation, genre effects or register differences.
 
-Each sample contains approximately 1,000 tokens, except for dialogues and multi-file sources where the natural segmentation is preserved. 
+Each sample contains approximately 1,000 tokens, except for some speeches and emails, where the natural segmentation is preserved. 
 
 
 
