@@ -27,17 +27,17 @@ Each sample contains approximately 1,000 tokens, except for dialogues and multi-
 | *APIL (office du tourisme Othe-Armance) (information01) | 21st | information | 935 |
 | *Wikinews (information02) | 21st | information | 1022 |
 | *L'Est Républicain (ATILF and CLLE, 2020) (information03) | 21st | information | 928 |
-| *French WikiNER (encyclopedia01) | 21st | encyclopedia | 1010<br>4667 |
-| WikiNER-FR gold (Cao et al., 2024) (encyclopedia02-06, 5 samples) | 21st | encyclopedia | 1010<br>4667 |
-| *Rhapsodie (Lacheret et al., 2014) (spoken01-03, 3 samples) | 21st | spoken | 2967<br>2242 |
-| ESLO (Abouda and Baude, 2005) (spoken04-05, 2 samples) | 21st | spoken | 2967<br>2242 |
+| *French WikiNER (encyclopedia01) | 21st | encyclopedia | 1010 |
+| WikiNER-FR gold (Cao et al., 2024) (encyclopedia02-06, 5 samples) | 21st | encyclopedia | 4667 |
+| *Rhapsodie (Lacheret et al., 2014) (spoken01-03, 3 samples) | 21st | spoken | 2967 |
+| ESLO (Abouda and Baude, 2005) (spoken04-05, 2 samples) | 21st | spoken | 2242 |
 | Speech to Parliament, Macron (politique01) | 21st | political | 1122 |
 | Speech to French people, Macron (politique02) | 21st | political | 1109 |
 | Call of June, 18th 1940, De Gaulle (politique03) | 20th | political | 443 |
 | Speech to Algerians, De Gaulle (politique04) | 20th | political | 634 |
 | Administrative Court of Appeal, Anonymized (juridique01) | 21st | legal | 1147 |
-| Appeal tribunals, Anonymized (juridique02) | 21st | legal | 1165<br>959 |
-| Council of State, Anonymized (juridique03) | 21st | legal | 1165<br>959 |
+| Appeal tribunals, Anonymized (juridique02) | 21st | legal | 1165 |
+| Council of State, Anonymized (juridique03) | 21st | legal | 959 |
 | Administrative Court of Appeal, Anonymized (juridique04) | 21st | legal | 1112 |
 | Specialty Chemistry (Labrak et al., 2023) (biomedical01) | 21st | biomedical | 1108 |
 | Specialty Genetics (Labrak et al., 2023) (biomedical02) | 21st | biomedical | 1113 |
