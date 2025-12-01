@@ -2,9 +2,10 @@
 
 We present NEM.fr, the Named-Entities Multigenre French Corpus, an extended, enriched and fully re-annotated version of FENEC, the FrEnch Named-entity Evaluation Corpus (see: https://hal.science/hal-04534593/document).
 
-NEM.fr covers 12 textual genres, from literature to legal decisions, political speeches, biomedical texts, tweets, spoken French, encyclopedic content and professional emails. This diversity makes the corpus suitable not only for evaluating the performance of Named Entity Recognition (NER) tools in heterogeneous contexts, but also for exploring textual variation, genre effects or register differences.
+The corpus gathers 51,480 tokens distributed across 12 genres (from literature to legal decisions, political speeches, biomedical texts, tweets, encyclopedic content, professional emails, poetry and more). This diversity makes the corpus suitable not only for evaluating the performance of Named Entity Recognition (NER) tools in heterogeneous contexts, but also for exploring textual variation, genre effects or register differences.
 
-The corpus gathers 51,480 tokens distributed across 12 genres (from literature to legal decisions, political speeches, biomedical texts, tweets, encyclopedic content, professional emails, poetry and more). Each sample contains approximately 1,000 tokens, except for dialogues and multi-file sources where the natural segmentation is preserved.
+Each sample contains approximately 1,000 tokens, except for dialogues and multi-file sources where the natural segmentation is preserved. 
+
 
 
 
