@@ -8,7 +8,6 @@ Each sample contains approximately 1,000 tokens, except for some speeches and em
 
 
 
-
 | Source (identifier) | Period | Genre | # tokens |
 | --- | --- | --- | --- |
 | *Traité sur la Tolérance, Voltaire (prose01) | 18th | prose | 1029 |
@@ -52,5 +51,6 @@ Each sample contains approximately 1,000 tokens, except for some speeches and em
 |  |  | 12 genres | 51480 tokens |
 
 
+*Were in FENEC.
 
 
