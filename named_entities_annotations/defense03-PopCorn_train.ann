@@ -1,54 +1,55 @@
-LOC	3	15	Burkina-Faso
-PERS	60	76	M . Ludovique Ali
-ORG	105	115	République
-PERS	187	197	Burkinabés
-ORG	336	361	pour un Travail Équitable
-LOC	404	410	Cissin
-LOC	413	424	Ouagadougou
-PERS	460	476	M . Ludovique Ali
-LOC	747	753	Cissin
-TIME	755	778	Au matin du 12 mai 2016
-LOC	845	878	treizième arrondissement de Paris
-LOC	873	878	Paris
-PERS	893	907	Noëline Martin
-PERS	928	941	Ramos Sanchez
-ORG	1049	1053	K-V2
-PERS	1170	1177	Noëline
-LOC	1209	1220	Broca AP-HP
-PERS	1312	1319	Noëline
-PERS	1323	1328	Ramos
-LOC	1519	1524	Niger
-LOC	1666	1672	Zinder
-ORG	1687	1699	Pacific City
-PERS	1730	1759	Monsieur Dominique Dos Santos
-PROD	1907	1919	kalachnikovs
-TIME	2200	2215	Ce 29 mars 2019
-LOC	2236	2242	Soudan
-PERS	2312	2336	Monsieur Tahina Williams
-TIME	3024	3041	Ce 6 juillet 2015
-LOC	3044	3053	Bruxelles
-PERS	3055	3080	Madame Jeanne-Rose Durant
-PROD	3121	3134	Bruxos-Pestos
-PERS	3569	3587	Jeanne-Rose Durant
-PROD	3647	3660	Bruxos-Pestos
-TIME	3699	3710	12 mai 2005
-LOC	3714	3725	Ouagadougou
-PERS	3998	4015	M . Simporé Laouny
-PERS	4167	4182	M . Kifr Bahmadi
-PROD	4223	4230	YouTube
-PROD	4234	4242	Facebook
-TIME	4567	4575	Ce matin
-LOC	4578	4583	Milan
-PERS	4585	4600	Jorris Da Silva
-ORG	4634	4658	Milan Chimie universelle
-LOC	4634	4639	Milan
-PROD	4812	4830	liqueur de Fehling
-PERS	4823	4830	Fehling
-PERS	4962	4977	Jorris Da Silva
-PROD	5082	5088	iPhone
-TIME	5259	5267	Ce matin
-LOC	5272	5282	Luxembourg
-PERS	5307	5315	Defne Li
-ORG	5334	5366	Ordre des Consommateurs Éclairés
-PROD	5692	5700	d'éthyle
-PERS	5782	5790	Defne Li
+T1	LOC	3	15	Burkina-Faso	1
+T2	PERS	60	76	M . Ludovique Ali	4
+T3	ORG	105	115	République	1
+T4	ORG	172	176	État	1
+T5	PERS	187	197	Burkinabés	1
+T6	ORG	324	361	Association pour un Travail Équitable	5
+T7	LOC	404	410	Cissin	1
+T8	LOC	413	424	Ouagadougou	1
+T9	PERS	460	476	M . Ludovique Ali	4
+T10	LOC	747	753	Cissin	1
+T11	TIME	755	778	Au matin du 12 mai 2016	6
+T12	LOC	845	878	treizième arrondissement de Paris	4
+T13	LOC	873	878	Paris	1
+T14	PERS	893	907	Noëline Martin	2
+T15	PERS	928	941	Ramos Sanchez	2
+T16	ORG	1049	1053	K-V2	1
+T17	PERS	1170	1177	Noëline	1
+T18	LOC	1201	1220	Hôpital Broca AP-HP	3
+T19	PERS	1312	1319	Noëline	1
+T20	PERS	1323	1328	Ramos	1
+T21	LOC	1519	1524	Niger	1
+T22	LOC	1666	1672	Zinder	1
+T23	ORG	1687	1699	Pacific City	2
+T24	PERS	1730	1759	Monsieur Dominique Dos Santos	4
+T25	PROD	1907	1919	kalachnikovs	1
+T26	TIME	2200	2215	Ce 29 mars 2019	4
+T27	LOC	2236	2242	Soudan	1
+T28	PERS	2312	2336	Monsieur Tahina Williams	3
+T29	TIME	3024	3041	Ce 6 juillet 2015	4
+T30	LOC	3044	3053	Bruxelles	1
+T31	PERS	3055	3080	Madame Jeanne-Rose Durant	3
+T32	PROD	3121	3134	Bruxos-Pestos	1
+T33	PERS	3569	3587	Jeanne-Rose Durant	2
+T34	PROD	3647	3660	Bruxos-Pestos	1
+T35	TIME	3699	3710	12 mai 2005	3
+T36	LOC	3714	3725	Ouagadougou	1
+T37	PERS	3998	4015	M . Simporé Laouny	4
+T38	PERS	4167	4182	M . Kifr Bahmadi	4
+T39	PROD	4223	4230	YouTube	1
+T40	PROD	4234	4242	Facebook	1
+T41	TIME	4567	4575	Ce matin	2
+T42	LOC	4578	4583	Milan	1
+T43	PERS	4585	4600	Jorris Da Silva	3
+T44	ORG	4634	4658	Milan Chimie universelle	3
+T45	LOC	4634	4639	Milan	1
+T46	PROD	4812	4830	liqueur de Fehling	3
+T47	PERS	4823	4830	Fehling	1
+T48	PERS	4962	4977	Jorris Da Silva	3
+T49	PROD	5082	5088	iPhone	1
+T50	TIME	5259	5267	Ce matin	2
+T51	LOC	5272	5282	Luxembourg	1
+T52	PERS	5307	5315	Defne Li	2
+T53	ORG	5334	5366	Ordre des Consommateurs Éclairés	4
+T54	PROD	5686	5700	oxyde d'éthyle	2
+T55	PERS	5782	5790	Defne Li	2

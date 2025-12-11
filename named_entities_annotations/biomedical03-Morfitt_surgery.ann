@@ -1,7 +1,7 @@
-LOC	95	115	Colombie-Britannique
-LOC	185	197	centre de la
-LOC	198	218	Colombie-Britannique
-LOC	503	523	Colombie-Britannique
-LOC	646	660	Ouest canadien
-PERS	785	803	Isabelle Vallières
-TIME	5464	5471	en 2007
+T1	LOC	95	115	Colombie-Britannique	1
+T2	LOC	185	218	centre de la Colombie-Britannique	4
+T3	LOC	198	218	Colombie-Britannique	1
+T4	LOC	503	523	Colombie-Britannique	1
+T5	LOC	646	660	Ouest canadien	2
+T6	PERS	785	803	Isabelle Vallières	2
+T7	TIME	5464	5471	en 2007	2

@@ -1,20 +1,20 @@
-LOC	201	265	les neuf régions du nord-ouest de la République-Unie de Tanzanie
-LOC	221	265	nord-ouest de la République-Unie de Tanzanie
-LOC	238	265	République-Unie de Tanzanie
-LOC	257	265	Tanzanie
-ORG	894	920	pour enfants de Cincinnati
-LOC	910	920	Cincinnati
-LOC	926	936	États-Unis
-TIME	1195	1207	février 2017
-TIME	1211	1219	mai 2018
-ORG	2945	2964	province du Sichuan
-LOC	2957	2964	Sichuan
-LOC	2974	2995	sud-ouest de la Chine
-LOC	2990	2995	Chine
-ORG	3362	3381	province du Sichuan
-LOC	3374	3381	Sichuan
-LOC	3386	3407	sud-ouest de la Chine
-LOC	3402	3407	Chine
-ORG	3520	3539	province du Sichuan
-LOC	3532	3539	Sichuan
-PERS	5704	5725	Docteur Serge Messier
+T1	LOC	201	265	les neuf régions du nord-ouest de la République-Unie de Tanzanie	10
+T2	LOC	221	265	nord-ouest de la République-Unie de Tanzanie	6
+T3	LOC	238	265	République-Unie de Tanzanie	3
+T4	LOC	257	265	Tanzanie	1
+T5	ORG	886	920	hôpital pour enfants de Cincinnati	5
+T6	LOC	910	920	Cincinnati	1
+T7	LOC	926	936	États-Unis	1
+T8	TIME	1195	1207	février 2017	2
+T9	TIME	1211	1219	mai 2018	2
+T10	ORG	2945	2964	province du Sichuan	3
+T11	LOC	2957	2964	Sichuan	1
+T12	LOC	2974	2995	sud-ouest de la Chine	4
+T13	LOC	2990	2995	Chine	1
+T14	ORG	3362	3381	province du Sichuan	3
+T15	LOC	3374	3381	Sichuan	1
+T16	LOC	3386	3407	sud-ouest de la Chine	4
+T17	LOC	3402	3407	Chine	1
+T18	ORG	3520	3539	province du Sichuan	3
+T19	LOC	3532	3539	Sichuan	1
+T20	PERS	5704	5725	Docteur Serge Messier	3

@@ -1,76 +1,76 @@
-PROD	36	71	jugement n ° 1800923 du 27 mars 2020
-TIME	56	71	du 27 mars 2020
-ORG	76	106	tribunal administratif de Nice
-LOC	102	106	Nice
-TIME	141	159	du 3 novembre 2017
-ORG	184	192	La Poste
-PERS	263	267	M . B
-ORG	593	601	La Poste
-PROD	671	713	L . 761 - 1 du code de justice administrative
-PROD	683	713	code de justice administrative
-TIME	742	760	le 8 décembre 2020
-PERS	762	768	M . A B
-PROD	824	859	jugement n ° 1800923 du 27 mars 2020
-TIME	844	859	du 27 mars 2020
-TIME	923	937	du 2 mars 2012
-TIME	1191	1206	du 21 juin 2021
-ORG	1225	1255	tribunal administratif de Nice
-LOC	1251	1255	Nice
-PROD	1339	1381	R . 921 - 6 du code de justice administrative
-PROD	1351	1381	code de justice administrative
-PROD	1430	1465	jugement n ° 1800923 du 27 mars 2020
-TIME	1450	1465	du 27 mars 2020
-TIME	1494	1513	du 31 décembre 2021
-ORG	1518	1548	tribunal administratif de Nice
-LOC	1544	1548	Nice
-LOC	1601	1609	La Poste
-PROD	1666	1701	jugement n ° 1800923 du 27 mars 2020
-TIME	1686	1701	du 27 mars 2020
-TIME	1949	1964	le 30 mars 2022
-PERS	1966	1972	M . A B
-PROD	2080	2153	jugement n ° 2103337 du tribunal administratif de Nice du 31 décembre 2021
-ORG	2103	2133	tribunal administratif de Nice
-LOC	2129	2133	Nice
-TIME	2134	2153	du 31 décembre 2021
-ORG	2182	2190	La Poste
-PROD	2233	2268	jugement n ° 1800923 du 27 mars 2020
-TIME	2256	2268	27 mars 2020
-TIME	2307	2321	le 13 mai 2022
-ORG	2334	2342	La Poste
-PERS	2360	2371	Me Mancilla
-TIME	2603	2617	le 30 mai 2022
-PERS	2619	2623	M . B
-TIME	2922	2936	le 14 mai 2020
-TIME	3031	3066	du 15 mai 2020 jusqu'au 14 mai 2021
-PROD	3174	3209	jugement n ° 1800923 du 27 mars 2020
-TIME	3194	3209	du 27 mars 2020
-PROD	3219	3258	jugement n ° 2103337 du 31 décembre 2021
-TIME	3239	3258	du 31 décembre 2021
-PROD	3301	3331	code de justice administrative
-PERS	3468	3473	Mme C
-PERS	3498	3507	Mme Sorin
-PERS	3558	3562	M . B
-PROD	3621	3663	L . 911 - 7 du code de justice administrative
-PROD	3633	3663	code de justice administrative
-PROD	3936	3978	R . 921 - 7 du code de justice administrative
-PROD	3948	3978	code de justice administrative
-PROD	4411	4453	un jugement n ° 2103337 du 31 décembre 2021
-TIME	4434	4453	du 31 décembre 2021
-ORG	4476	4484	La Poste
-TIME	4485	4502	le 7 janvier 2022
-ORG	4507	4537	tribunal administratif de Nice
-LOC	4533	4537	Nice
-ORG	4607	4615	La Poste
-PROD	4672	4707	jugement n ° 1800923 du 27 mars 2020
-TIME	4695	4707	27 mars 2020
-PROD	4929	4953	jugement du 27 mars 2020
-TIME	4938	4953	du 27 mars 2020
-PERS	4960	4964	M . B
-PROD	5085	5113	jugement du 31 décembre 2021
-TIME	5094	5113	du 31 décembre 2021
-TIME	5285	5299	le 14 mai 2020
-TIME	5400	5435	du 15 mai 2020 jusqu'au 14 mai 2021
-ORG	5553	5561	La Poste
-PROD	5595	5630	jugement n ° 1800923 du 27 mars 2020
-TIME	5615	5630	du 27 mars 2020
-PERS	5807	5811	M . B
+T1	PROD	36	71	jugement n ° 1800923 du 27 mars 2020	8
+T2	TIME	56	71	du 27 mars 2020	4
+T3	ORG	76	106	tribunal administratif de Nice	4
+T4	LOC	102	106	Nice	1
+T5	TIME	141	159	du 3 novembre 2017	4
+T6	ORG	184	192	La Poste	2
+T7	PERS	263	267	M . B	3
+T8	ORG	593	601	La Poste	2
+T9	PROD	663	713	article L . 761 - 1 du code de justice administrative	11
+T10	PROD	683	713	code de justice administrative	4
+T11	TIME	742	760	le 8 décembre 2020	4
+T12	PERS	762	768	M . A B	4
+T13	PROD	824	859	jugement n ° 1800923 du 27 mars 2020	8
+T14	TIME	844	859	du 27 mars 2020	4
+T15	TIME	923	937	du 2 mars 2012	4
+T16	TIME	1191	1206	du 21 juin 2021	4
+T17	ORG	1225	1255	tribunal administratif de Nice	4
+T18	LOC	1251	1255	Nice	1
+T19	PROD	1331	1381	article R . 921 - 6 du code de justice administrative	11
+T20	PROD	1351	1381	code de justice administrative	4
+T21	PROD	1430	1465	jugement n ° 1800923 du 27 mars 2020	8
+T22	TIME	1450	1465	du 27 mars 2020	4
+T23	TIME	1494	1513	du 31 décembre 2021	4
+T24	ORG	1518	1548	tribunal administratif de Nice	4
+T25	LOC	1544	1548	Nice	1
+T26	LOC	1601	1609	La Poste	2
+T27	PROD	1666	1701	jugement n ° 1800923 du 27 mars 2020	8
+T28	TIME	1686	1701	du 27 mars 2020	4
+T29	TIME	1949	1964	le 30 mars 2022	4
+T30	PERS	1966	1972	M . A B	4
+T31	PROD	2080	2153	jugement n ° 2103337 du tribunal administratif de Nice du 31 décembre 2021	13
+T32	ORG	2103	2133	tribunal administratif de Nice	4
+T33	LOC	2129	2133	Nice	1
+T34	TIME	2134	2153	du 31 décembre 2021	4
+T35	ORG	2182	2190	La Poste	2
+T36	PROD	2233	2268	jugement n ° 1800923 du 27 mars 2020	8
+T37	TIME	2256	2268	27 mars 2020	3
+T38	TIME	2307	2321	le 13 mai 2022	4
+T39	ORG	2334	2342	La Poste	2
+T40	PERS	2360	2371	Me Mancilla	2
+T41	TIME	2603	2617	le 30 mai 2022	4
+T42	PERS	2619	2623	M . B	3
+T43	TIME	2922	2936	le 14 mai 2020	4
+T44	TIME	3031	3066	du 15 mai 2020 jusqu'au 14 mai 2021	8
+T45	PROD	3174	3209	jugement n ° 1800923 du 27 mars 2020	8
+T46	TIME	3194	3209	du 27 mars 2020	4
+T47	PROD	3219	3258	jugement n ° 2103337 du 31 décembre 2021	8
+T48	TIME	3239	3258	du 31 décembre 2021	4
+T49	PROD	3301	3331	code de justice administrative	4
+T50	PERS	3468	3473	Mme C	2
+T51	PERS	3498	3507	Mme Sorin	2
+T52	PERS	3558	3562	M . B	3
+T53	PROD	3613	3663	article L . 911 - 7 du code de justice administrative	11
+T54	PROD	3633	3663	code de justice administrative	4
+T55	PROD	3928	3978	article R . 921 - 7 du code de justice administrative	11
+T56	PROD	3948	3978	code de justice administrative	4
+T57	PROD	4411	4453	un jugement n ° 2103337 du 31 décembre 2021	9
+T58	TIME	4434	4453	du 31 décembre 2021	4
+T59	ORG	4476	4484	La Poste	2
+T60	TIME	4485	4502	le 7 janvier 2022	4
+T61	ORG	4507	4537	tribunal administratif de Nice	4
+T62	LOC	4533	4537	Nice	1
+T63	ORG	4607	4615	La Poste	2
+T64	PROD	4672	4707	jugement n ° 1800923 du 27 mars 2020	8
+T65	TIME	4695	4707	27 mars 2020	3
+T66	PROD	4929	4953	jugement du 27 mars 2020	5
+T67	TIME	4938	4953	du 27 mars 2020	4
+T68	PERS	4960	4964	M . B	3
+T69	PROD	5085	5113	jugement du 31 décembre 2021	5
+T70	TIME	5094	5113	du 31 décembre 2021	4
+T71	TIME	5285	5299	le 14 mai 2020	4
+T72	TIME	5400	5435	du 15 mai 2020 jusqu'au 14 mai 2021	8
+T73	ORG	5553	5561	La Poste	2
+T74	PROD	5595	5630	jugement n ° 1800923 du 27 mars 2020	8
+T75	TIME	5615	5630	du 27 mars 2020	4
+T76	PERS	5807	5811	M . B	3

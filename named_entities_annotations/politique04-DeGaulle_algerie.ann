@@ -1,17 +1,17 @@
-LOC	137	144	Algérie
-LOC	628	634	France
-LOC	680	686	France
-LOC	715	722	Algérie
-PERS	1245	1260	armée française
-PERS	1464	1479	armée française
-PERS	1743	1751	Français
-TIME	1841	1856	dans trois mois
-PERS	1897	1905	Français
-PERS	1917	1954	les 10 millions de Français d ’ Algérie
-LOC	1947	1954	Algérie
-PERS	2001	2028	ces 10 millions de Français
-PERS	2235	2254	les autres Français
-LOC	2650	2657	Algérie
-PERS	2741	2750	de Gaulle
-LOC	2935	2941	France
-LOC	2973	2979	France
+T1	LOC	137	144	Algérie	1
+T2	LOC	628	634	France	1
+T3	LOC	680	686	France	1
+T4	LOC	715	722	Algérie	1
+T5	PERS	1245	1260	armée française	2
+T6	PERS	1464	1479	armée française	2
+T7	PERS	1743	1751	Français	1
+T8	TIME	1841	1856	dans trois mois	3
+T9	PERS	1897	1905	Français	1
+T10	PERS	1917	1954	les 10 millions de Français d ’ Algérie	8
+T11	LOC	1947	1954	Algérie	1
+T12	PERS	2001	2028	ces 10 millions de Français	5
+T13	PERS	2235	2254	les autres Français	3
+T14	LOC	2650	2657	Algérie	1
+T15	PERS	2741	2750	de Gaulle	2
+T16	LOC	2935	2941	France	1
+T17	LOC	2973	2979	France	1

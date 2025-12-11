@@ -1,56 +1,57 @@
-ORG	12	26	lycée Stendhal
-LOC	12	26	lycée Stendhal
-ORG	321	339	Maison du tourisme
-LOC	321	339	Maison du tourisme
-TIME	371	382	aujourd'hui
-LOC	615	649	Chambre de Commerce et d'Industrie
-TIME	789	800	cette année
-TIME	809	829	l'an deux mille cent
-ORG	991	1006	le gouvernement
-LOC	1212	1220	Mulhouse
-PERS	1282	1296	Maxi Rodriguez
-PERS	1320	1329	Gutiérrez
-PERS	1747	1755	Français
-PERS	2033	2040	Charlot
-PERS	2243	2247	Gago
-LOC	2305	2320	marché d'Aligre
-ORG	2349	2362	A Small World
-PERS	2403	2420	Quentin Tarantino
-PERS	2441	2453	Paris Hilton
-PERS	2482	2496	Massimo Gargia
-PERS	2589	2594	Messi
-PERS	2611	2615	Papa
-TIME	2616	2626	maintenant
-PERS	2627	2636	Gutiérrez
-ORG	2709	2718	de France
-LOC	2712	2718	France
-TIME	2858	2865	le soir
-TIME	2880	2887	le soir
-ORG	2993	3002	de France
-LOC	2996	3002	France
-PERS	3019	3028	Argentins
-PROD	3174	3181	L'Union
-LOC	3184	3189	Reims
-LOC	3651	3665	La Nef Chavant
-PERS	3658	3665	Chavant
-TIME	3805	3816	renaissance
-TIME	3830	3854	jusqu'au seizième siècle
-TIME	3873	3884	renaissance
-PERS	4065	4075	Françaises
-PERS	4079	4087	Français
-LOC	4109	4114	- mer
-TIME	4188	4204	année deux mille
-PERS	4215	4221	Agüero
-PERS	4231	4240	Rodriguez
-PERS	4241	4250	Rodriguez
-PERS	4251	4260	Rodriguez
-PERS	4268	4277	Argentins
-PERS	4297	4305	Maradona
-PERS	4356	4363	Chaplin
-PERS	4529	4543	Steve Mandanda
-PERS	4592	4601	Argentins
-ORG	4624	4640	équipe de France
-LOC	4634	4640	France
-TIME	4743	4751	le matin
-LOC	4907	4912	Paris
-LOC	4941	4946	Paris
+T1	ORG	12	26	lycée Stendhal	2
+T2	LOC	12	26	lycée Stendhal	2
+T3	ORG	321	339	Maison du tourisme	3
+T4	LOC	321	339	Maison du tourisme	3
+T5	TIME	371	382	aujourd'hui	1
+T6	LOC	615	649	Chambre de Commerce et d'Industrie	5
+T7	TIME	789	800	cette année	2
+T8	TIME	809	829	l'an deux mille cent	4
+T9	ORG	991	1006	le gouvernement	2
+T10	LOC	1212	1220	Mulhouse	1
+T11	PERS	1282	1296	Maxi Rodriguez	2
+T12	PERS	1320	1329	Gutiérrez	1
+T13	PERS	1744	1755	es Français	2
+T14	PERS	2033	2040	Charlot	1
+T15	PERS	2243	2247	Gago	1
+T16	LOC	2305	2320	marché d'Aligre	2
+T17	LOC	2314	2320	Aligre	1
+T18	ORG	2349	2362	A Small World	3
+T19	PERS	2403	2420	Quentin Tarantino	2
+T20	PERS	2441	2453	Paris Hilton	2
+T21	PERS	2482	2496	Massimo Gargia	2
+T22	PERS	2589	2594	Messi	1
+T23	PERS	2611	2615	Papa	1
+T24	TIME	2616	2626	maintenant	1
+T25	PERS	2627	2636	Gutiérrez	1
+T26	ORG	2702	2718	équipe de France	3
+T27	LOC	2712	2718	France	1
+T28	TIME	2858	2865	le soir	2
+T29	TIME	2880	2887	le soir	2
+T30	ORG	2986	3002	équipe de France	3
+T31	LOC	2996	3002	France	1
+T32	PERS	3019	3028	Argentins	1
+T33	PROD	3174	3181	L'Union	1
+T34	LOC	3184	3189	Reims	1
+T35	LOC	3651	3665	La Nef Chavant	3
+T36	PERS	3658	3665	Chavant	1
+T37	TIME	3805	3816	renaissance	1
+T38	TIME	3830	3854	jusqu'au seizième siècle	3
+T39	TIME	3873	3884	renaissance	1
+T40	PERS	4065	4075	Françaises	1
+T41	PERS	4079	4087	Français	1
+T42	LOC	4103	4114	outre - mer	3
+T43	TIME	4188	4204	année deux mille	3
+T44	PERS	4215	4221	Agüero	1
+T45	PERS	4231	4240	Rodriguez	1
+T46	PERS	4241	4250	Rodriguez	1
+T47	PERS	4251	4260	Rodriguez	1
+T48	PERS	4268	4277	Argentins	1
+T49	PERS	4297	4305	Maradona	1
+T50	PERS	4356	4363	Chaplin	1
+T51	PERS	4529	4543	Steve Mandanda	2
+T52	PERS	4592	4601	Argentins	1
+T53	ORG	4624	4640	équipe de France	3
+T54	LOC	4634	4640	France	1
+T55	TIME	4743	4751	le matin	2
+T56	LOC	4907	4912	Paris	1
+T57	LOC	4941	4946	Paris	1

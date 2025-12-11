@@ -1,5 +1,5 @@
-ORG	183	192	de Toulon
-LOC	186	192	Toulon
-PERS	217	224	Bernard
-ORG	359	379	Stand Up for Science
-PROD	485	490	CAPES
+T1	ORG	172	192	université de Toulon	3
+T2	LOC	186	192	Toulon	1
+T3	PERS	217	224	Bernard	1
+T4	ORG	359	379	Stand Up for Science	4
+T5	PROD	485	490	CAPES	1

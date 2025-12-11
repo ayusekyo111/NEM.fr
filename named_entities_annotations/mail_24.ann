@@ -1,10 +1,10 @@
-TIME	66	75	printemps
-TIME	118	123	mardi
-TIME	178	181	20h
-TIME	358	377	la semaine dernière
-PROD	412	451	Article 343 du code de procédure pénale
-LOC	454	601	https : / / www.radiofrance.fr / franceculture / podcasts / le-regard-culturel / article - 353 - du-code-civil-l-intime-conviction-sur-une-scene-de-theatre - 1626057
-PERS	897	903	Marion
-PERS	1261	1267	Racine
-PERS	1660	1667	Silvana
-TIME	1718	1727	printemps
+T1	TIME	66	75	printemps	1
+T2	TIME	118	123	mardi	1
+T3	TIME	172	181	après 20h	2
+T4	TIME	358	377	la semaine dernière	3
+T5	PROD	412	451	Article 343 du code de procédure pénale	7
+T6	LOC	454	601	https : / / www.radiofrance.fr / franceculture / podcasts / le-regard-culturel / article - 353 - du-code-civil-l-intime-conviction-sur-une-scene-de-theatre - 1626057	19
+T7	PERS	897	903	Marion	1
+T8	PERS	1261	1267	Racine	1
+T9	PERS	1660	1667	Silvana	1
+T10	TIME	1718	1727	printemps	1

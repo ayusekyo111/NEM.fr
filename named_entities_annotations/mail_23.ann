@@ -1,11 +1,11 @@
-PERS	6	12	Silvio
-PERS	31	35	Béné
-PERS	39	44	Paolo
-ORG	86	90	SCAC
-TIME	104	124	depuis lundi dernier
-ORG	153	163	ParcourSup
-ORG	197	210	Campus France
-LOC	204	210	France
-ORG	275	279	SCAC
-LOC	390	412	place de la République
-PERS	417	419	JY
+T1	PERS	6	12	Silvio	1
+T2	PERS	31	35	Béné	1
+T3	PERS	39	44	Paolo	1
+T4	ORG	86	90	SCAC	1
+T5	TIME	104	124	depuis lundi dernier	3
+T6	ORG	153	163	ParcourSup	1
+T7	ORG	197	210	Campus France	2
+T8	LOC	204	210	France	1
+T9	ORG	275	279	SCAC	1
+T10	LOC	390	412	place de la République	4
+T11	PERS	417	419	JY	1

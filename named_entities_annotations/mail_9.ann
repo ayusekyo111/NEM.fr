@@ -1,6 +1,6 @@
-PERS	8	13	Pedro
-LOC	69	75	Angers
-ORG	121	134	Campus France
-LOC	128	134	France
-LOC	202	207	Chili
-PERS	454	455	G
+T1	PERS	8	13	Pedro	1
+T2	LOC	69	75	Angers	1
+T3	ORG	121	134	Campus France	2
+T4	LOC	128	134	France	1
+T5	LOC	202	207	Chili	1
+T6	PERS	454	455	G	1

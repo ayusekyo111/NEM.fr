@@ -1,73 +1,78 @@
-ORG	33	45	J . C . Penney
-PERS	123	143	Dwight D . Eisenhower
-LOC	174	182	Maryland
-LOC	311	321	États-Unis
-LOC	363	369	soleil
-LOC	403	411	Montréal
-PERS	450	464	Woodrow Wilson
-LOC	543	548	Kaaba
-PROD	616	636	Good Morning America
-PERS	669	698	Ernesto Antonio Puente Junior
-PERS	812	818	Mozart
-PROD	889	919	Jonathan Livingston le goëland
-PERS	889	908	Jonathan Livingston
-PROD	936	960	The Pit and the Pendulum
-PERS	1109	1126	Charles Lindbergh
-PERS	1236	1246	Tom Cruise
-PERS	1268	1280	Jane Goodall
-LOC	1332	1341	Thaïlande
-LOC	1372	1379	Seattle
-PERS	1403	1419	Huckleberry Finn
-PROD	1403	1419	Huckleberry Finn
-PERS	1441	1455	John Steinbeck
-PERS	1497	1509	Nicolas Cage
-LOC	1617	1622	Japon
-PERS	1688	1700	Warren Spahn
-LOC	1806	1816	États-Unis
-LOC	1844	1853	Big Muddy
-PERS	1866	1879	Deng Xiaoping
-PROD	1938	1953	West Side Story
-ORG	1982	2000	Prairie View A & M
-LOC	2089	2095	Russie
-PERS	2137	2142	Vénus
-PERS	2161	2179	Martin Luther King
-PROD	2265	2272	Muppets
-LOC	2287	2292	Logan
-TIME	2316	2338	Le jour de la Bastille
-PROD	2377	2394	The Pines of Rome
-LOC	2390	2394	Rome
-LOC	2418	2426	Hollande
-PROD	2481	2494	Strike Eagles
-TIME	2495	2502	en 1990
-PERS	2560	2570	Bob Marley
-ORG	2740	2750	Greenpeace
-LOC	2798	2805	Mexique
-PERS	2881	2896	Guillermo Ortiz
-PERS	2944	2955	John Potter
-LOC	2998	3008	Matterhorn
-LOC	3048	3053	Terre
-PERS	3201	3220	Mikhail Baryshnikov
-PERS	3376	3381	Burns
-PROD	3459	3473	Coupe Breeders
-TIME	3474	3481	en 1993
-EVENT	3504	3529	Ligue Majeure de baseball
-PROD	3601	3623	Oscar du meilleur film
-PROD	3718	3725	Tylenol
-PROD	3756	3788	The Midnight Ride of Paul Revere
-LOC	3822	3834	Pennsylvanie
-LOC	3901	3912	San Antonio
-LOC	3917	3922	Texas
-LOC	3964	3977	îles Pribilof
-PERS	4129	4140	Flintstones
-LOC	4168	4176	Pretoria
-PROD	4228	4253	prix Nobel de littérature
-PROD	4277	4290	Coupe Stanley
-PERS	4421	4427	Hitler
-ORG	4471	4480	de Purdue
-LOC	4474	4480	Purdue
-LOC	4547	4551	Utah
-PERS	4574	4583	Louis XIV
-PERS	4597	4608	Tchétchènes
-PERS	4609	4616	Staline
-LOC	4716	4724	Lynmouth
-LOC	4804	4811	Gateway
+T1	ORG	33	45	J . C . Penney	5
+T2	PERS	123	143	Dwight D . Eisenhower	4
+T3	LOC	174	182	Maryland	1
+T4	LOC	311	321	États-Unis	1
+T5	LOC	363	369	soleil	1
+T6	LOC	403	411	Montréal	1
+T7	PERS	450	464	Woodrow Wilson	2
+T8	LOC	543	548	Kaaba	1
+T9	PROD	616	636	Good Morning America	3
+T10	PERS	669	698	Ernesto Antonio Puente Junior	4
+T11	PERS	812	818	Mozart	1
+T12	LOC	856	865	Indonésie	1
+T13	PROD	889	919	Jonathan Livingston le goëland	4
+T14	PERS	889	908	Jonathan Livingston	2
+T15	PROD	936	960	The Pit and the Pendulum	5
+T16	LOC	1054	1062	Oklahoma	1
+T17	PERS	1109	1126	Charles Lindbergh	2
+T18	PERS	1236	1246	Tom Cruise	2
+T19	PERS	1268	1280	Jane Goodall	2
+T20	LOC	1332	1341	Thaïlande	1
+T21	LOC	1372	1379	Seattle	1
+T22	PERS	1403	1419	Huckleberry Finn	2
+T23	PROD	1403	1419	Huckleberry Finn	2
+T24	PERS	1441	1455	John Steinbeck	2
+T25	PERS	1497	1509	Nicolas Cage	2
+T26	LOC	1617	1622	Japon	1
+T27	PERS	1688	1700	Warren Spahn	2
+T28	LOC	1806	1816	États-Unis	1
+T29	LOC	1844	1853	Big Muddy	2
+T30	PERS	1866	1879	Deng Xiaoping	2
+T31	PROD	1938	1953	West Side Story	3
+T32	ORG	1971	2000	université Prairie View A & M	6
+T33	LOC	2075	2082	Ukraine	1
+T34	LOC	2089	2095	Russie	1
+T35	PERS	2137	2142	Vénus	1
+T36	PERS	2161	2179	Martin Luther King	3
+T37	PROD	2265	2272	Muppets	1
+T38	LOC	2278	2292	aéroport Logan	2
+T39	TIME	2316	2338	Le jour de la Bastille	5
+T40	PROD	2377	2394	The Pines of Rome	4
+T41	LOC	2390	2394	Rome	1
+T42	LOC	2418	2426	Hollande	1
+T43	PROD	2481	2494	Strike Eagles	2
+T44	TIME	2495	2502	en 1990	2
+T45	PERS	2560	2570	Bob Marley	2
+T46	ORG	2740	2750	Greenpeace	1
+T47	LOC	2798	2805	Mexique	1
+T48	PERS	2881	2896	Guillermo Ortiz	2
+T49	PERS	2944	2955	John Potter	2
+T50	LOC	2998	3008	Matterhorn	1
+T51	LOC	3048	3053	Terre	1
+T52	PERS	3201	3220	Mikhail Baryshnikov	2
+T53	PERS	3376	3381	Burns	1
+T54	PROD	3459	3473	Coupe Breeders	2
+T55	TIME	3474	3481	en 1993	2
+T56	EVENT	3504	3529	Ligue Majeure de baseball	4
+T57	PROD	3601	3623	Oscar du meilleur film	4
+T58	PROD	3718	3725	Tylenol	1
+T59	PROD	3756	3788	The Midnight Ride of Paul Revere	6
+T60	LOC	3822	3834	Pennsylvanie	1
+T61	LOC	3901	3912	San Antonio	2
+T62	LOC	3917	3922	Texas	1
+T63	LOC	3934	3942	Orénoque	1
+T64	LOC	3964	3977	îles Pribilof	2
+T65	LOC	4003	4012	Argentine	1
+T66	PERS	4129	4140	Flintstones	1
+T67	LOC	4168	4176	Pretoria	1
+T68	PROD	4228	4253	prix Nobel de littérature	4
+T69	PROD	4277	4290	Coupe Stanley	2
+T70	PERS	4421	4427	Hitler	1
+T71	ORG	4460	4480	université de Purdue	3
+T72	LOC	4474	4480	Purdue	1
+T73	LOC	4547	4551	Utah	1
+T74	PERS	4574	4583	Louis XIV	2
+T75	PERS	4597	4608	Tchétchènes	1
+T76	PERS	4609	4616	Staline	1
+T77	LOC	4716	4724	Lynmouth	1
+T78	LOC	4798	4811	arche Gateway	2

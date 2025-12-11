@@ -1,65 +1,76 @@
-LOC	76	81	Liban
-LOC	186	192	France
-EVENT	320	325	Shoah
-LOC	357	363	Europe
-PERS	401	413	Adama Traoré
-PERS	507	527	élu de la République
-ORG	517	527	République
-LOC	635	643	Colombes
-PROD	786	809	Le Chien de Schrödinger
-TIME	947	958	cette année
-EVENT	1165	1184	rentreescolaire2020
-true	1165	1184	rentreescolaire2020
-LOC	1320	1332	Méditerranée
-ORG	1463	1470	YouTube
-true	1463	1470	YouTube
-EVENT	1688	1703	RentreeScolaire
-true	1688	1703	RentreeScolaire
-EVENT	1837	1844	webinar
-true	1837	1844	webinar
-TIME	1845	1866	le 23 juillet à 12h00
-PROD	2323	2336	FranceRelance
-true	2323	2336	FranceRelance
-PERS	2372	2377	Betty
-PERS	2533	2538	Soral
-PERS	2555	2564	Dieudonné
-PERS	2649	2665	Michel Chartrand
-ORG	2848	2855	discord
-true	2848	2855	discord
-PERS	3203	3216	Pierre Truche
-PROD	3286	3293	YouTube
-TIME	3294	3302	fin juin
-PERS	3305	3314	Dieudonné
-PROD	3328	3336	Facebook
-PROD	3486	3494	Facebook
-PROD	3498	3506	Le Monde
-PERS	3549	3559	John # Hume
-LOC	3634	3649	Irlande du Nord
-PROD	3673	3696	prix # Nobel de la # paix
-PERS	3710	3718	JohnHume
-TIME	3769	3776	en 1940
-PROD	4015	4025	XiaomiMi10
-EVENT	4027	4043	SoldesClubic2020
-LOC	4131	4137	France
-LOC	4155	4164	Far Ouest
-PERS	4207	4223	Emmanuel # Macron
-LOC	4305	4319	chalonsursaone
-ORG	4360	4404	fédération d ’ études et de sports sous-marins
-ORG	4411	4437	fédération de sport adapté
-TIME	4454	4459	jeudi
-LOC	4462	4471	Six-Fours
-ORG	4607	4612	LICRA
-ORG	4977	4986	Hezbollah
-PERS	5033	5048	Bachar el-Assad
-LOC	5052	5057	Syrie
-PERS	5063	5082	rebelles houthistes
-LOC	5086	5091	Yémen
-PERS	5099	5114	milices chiites
-LOC	5118	5122	Irak
-TIME	5338	5346	Apresj20
-EVENT	5372	5383	confinement
-LOC	5423	5428	Chine
-ORG	5479	5498	consulat de Houston
-LOC	5491	5498	Houston
-PERS	5520	5525	Trump
-LOC	5783	5789	France
+T1	LOC	76	81	Liban	1
+T2	LOC	186	192	France	1
+T3	EVENT	320	325	Shoah	1
+T4	LOC	357	363	Europe	1
+T5	PERS	401	413	Adama Traoré	2
+T6	PERS	507	527	élu de la République	4
+T7	ORG	517	527	République	1
+T8	LOC	635	643	Colombes	1
+T9	PROD	786	809	Le Chien de Schrödinger	4
+T10	TIME	947	958	cette année	2
+T11	EVENT	1165	1184	rentreescolaire2020	1
+T12	true	1165	1184	rentreescolaire2020	1
+T13	ORG	1186	1191	NEEDE	1
+T14	true	1186	1191	NEEDE	1
+T15	LOC	1191	1203	Méditerranée	1
+T16	true	1191	1203	Méditerranée	1
+T17	LOC	1320	1332	Méditerranée	1
+T18	ORG	1463	1470	YouTube	1
+T19	true	1463	1470	YouTube	1
+T20	EVENT	1688	1703	RentreeScolaire	1
+T21	true	1688	1703	RentreeScolaire	1
+T22	EVENT	1837	1844	webinar	1
+T23	true	1837	1844	webinar	1
+T24	TIME	1845	1866	le 23 juillet à 12h00	5
+T25	LOC	1939	1945	Alsace	1
+T26	PROD	2323	2336	FranceRelance	1
+T27	true	2323	2336	FranceRelance	1
+T28	ORG	2323	2329	France	1
+T29	true	2323	2329	France	1
+T30	PERS	2372	2377	Betty	1
+T31	PERS	2533	2538	Soral	1
+T32	PERS	2555	2564	Dieudonné	1
+T33	PERS	2649	2665	Michel Chartrand	2
+T34	ORG	2848	2855	discord	1
+T35	true	2848	2855	discord	1
+T36	PERS	3203	3216	Pierre Truche	2
+T37	PROD	3286	3293	YouTube	1
+T38	TIME	3294	3302	fin juin	2
+T39	PERS	3305	3314	Dieudonné	1
+T40	PROD	3328	3336	Facebook	1
+T41	PROD	3486	3494	Facebook	1
+T42	PROD	3498	3506	Le Monde	2
+T43	PERS	3549	3559	John # Hume	3
+T44	LOC	3634	3649	Irlande du Nord	3
+T45	PROD	3673	3696	prix # Nobel de la # paix	7
+T46	PERS	3710	3718	JohnHume	1
+T47	TIME	3769	3776	en 1940	2
+T48	PROD	4015	4025	XiaomiMi10	1
+T49	EVENT	4027	4043	SoldesClubic2020	1
+T50	PROD	4033	4039	Clubic	1
+T51	TIME	4039	4043	2020	1
+T52	PROD	4071	4077	Unibet	1
+T53	PERS	4101	4107	macron	1
+T54	LOC	4131	4137	France	1
+T55	LOC	4155	4164	Far Ouest	2
+T56	PERS	4207	4223	Emmanuel # Macron	3
+T57	LOC	4305	4319	chalonsursaone	1
+T58	ORG	4360	4404	fédération d ’ études et de sports sous-marins	8
+T59	ORG	4411	4437	fédération de sport adapté	4
+T60	TIME	4454	4459	jeudi	1
+T61	LOC	4462	4471	Six-Fours	1
+T62	ORG	4607	4612	LICRA	1
+T63	ORG	4977	4986	Hezbollah	1
+T64	PERS	5033	5048	Bachar el-Assad	2
+T65	LOC	5052	5057	Syrie	1
+T66	PERS	5063	5082	rebelles houthistes	2
+T67	LOC	5086	5091	Yémen	1
+T68	PERS	5099	5114	milices chiites	2
+T69	LOC	5118	5122	Irak	1
+T70	TIME	5338	5346	Apresj20	1
+T71	EVENT	5372	5383	confinement	1
+T72	LOC	5423	5428	Chine	1
+T73	ORG	5479	5498	consulat de Houston	3
+T74	LOC	5491	5498	Houston	1
+T75	PERS	5520	5525	Trump	1
+T76	LOC	5783	5789	France	1

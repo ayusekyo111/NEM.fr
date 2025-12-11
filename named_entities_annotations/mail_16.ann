@@ -1,22 +1,22 @@
-PERS	8	14	Alicia
-PROD	717	738	alpha de Krippendorff
-PERS	726	738	Krippendorff
-PROD	884	898	Kappa de Cohen
-PERS	893	898	Cohen
-PROD	905	926	Alpha de Krippendorff
-PERS	914	926	Krippendorff
-PERS	1394	1405	Mark Davies
-PERS	1410	1423	Joseph Fleiss
-TIME	1425	1429	1982
-PROD	1431	1471	Measuring agreement for multinomial data
-PROD	1473	1483	Biometrics
-PROD	1509	1514	Kappa
-PROD	1547	1568	alpha de Krippendorff
-PERS	1556	1568	Krippendorff
-PERS	1621	1639	Klaus Krippendorff
-TIME	1641	1645	2004
-PROD	1647	1699	Content Analysis : an Introduction to its Methodology
-ORG	1713	1717	Sage
-LOC	1719	1732	Thousand Oaks
-LOC	1734	1736	CA
-PERS	1943	1954	Anne-Sophie
+T1	PERS	8	14	Alicia	1
+T2	PROD	717	738	alpha de Krippendorff	3
+T3	PERS	726	738	Krippendorff	1
+T4	PROD	884	898	Kappa de Cohen	3
+T5	PERS	893	898	Cohen	1
+T6	PROD	905	926	Alpha de Krippendorff	3
+T7	PERS	914	926	Krippendorff	1
+T8	PERS	1394	1405	Mark Davies	2
+T9	PERS	1410	1423	Joseph Fleiss	2
+T10	TIME	1425	1429	1982	1
+T11	PROD	1431	1471	Measuring agreement for multinomial data	5
+T12	PROD	1473	1483	Biometrics	1
+T13	PROD	1509	1514	Kappa	1
+T14	PROD	1547	1568	alpha de Krippendorff	3
+T15	PERS	1556	1568	Krippendorff	1
+T16	PERS	1621	1639	Klaus Krippendorff	2
+T17	TIME	1641	1645	2004	1
+T18	PROD	1647	1699	Content Analysis : an Introduction to its Methodology	8
+T19	ORG	1713	1717	Sage	1
+T20	LOC	1719	1732	Thousand Oaks	2
+T21	LOC	1734	1736	CA	1
+T22	PERS	1943	1954	Anne-Sophie	1
