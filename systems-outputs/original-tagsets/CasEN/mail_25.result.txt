@@ -1,0 +1,1 @@
+<p><s>Bonjour</s></p> <p><s>Je vous propose de passer un bon moment ensemble autour d'un BBQ chez moi <date type="nonCalendaire">en <gMonth>juin</gMonth></date>.</s></p> <p><s>Afin de définir la meilleure date, je vous propose de répondre à ce sondage</s></p>

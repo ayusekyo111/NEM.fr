@@ -1,0 +1,1 @@
+<p><s>Bonsoir</s></p> <p><s>Je ne suis pas de l'<org>université <orgName>de Cergy</orgName></org>, je ne saurais te répondre.</s></p> <p><s>Et je n'ai rien à voir avec les formations d'<org type="local">IUT</org>.</s></p> <p><s>Bien à toi</s></p>
